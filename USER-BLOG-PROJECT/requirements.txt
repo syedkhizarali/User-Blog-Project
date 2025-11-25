@@ -1,0 +1,17 @@
+order
+argon2
+pydantic-settings
+requests
+beautifulsoup4
+requests
+matplotlib
+starlette
+python-dotenv
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+mysqlclient
