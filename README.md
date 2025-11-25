@@ -28,13 +28,12 @@ With this setup, developers can easily extend the project with additional featur
 - **Python Modules:** Databases, Typing, FastAPI Dependencies, Passlib  
 - **File Handling:** Uploads via `uploads.py` module  
 - **Configuration & Environment:** `.env` setup, Config module for central settings  
-- **Project Architecture:** Modular, scalable, and maintainable folder structure  
+- **Project Architecture:** Modular, scalable, and maintainable folder structure
+  
 <h2 align="center">📸 Project Screenshots</h2>
 
-<p align="center">
-  <img src="assets/screenshot1.png" width="600">
-</p>
+| **1. Screen Names** | **2. Screen Names** | **3. Screen Names** | **4. Screen Names** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/syedkhizarali/User-Blog-Project/main/Screenshot%202025-11-25%20162635.png" width="600"> |  |  |  |
 
-<p align="center">
-  <img src="assets/screenshot2.png" width="600">
-</p>
+
